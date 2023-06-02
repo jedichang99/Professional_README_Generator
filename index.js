@@ -87,7 +87,7 @@ inquirer
       name: "email",
       message: "Enter your email address:",
     },
-    console.log(this),
+    //console.log(this),
   ])
   .then((answers) => {
     const readmeContent = generateREADME(answers);

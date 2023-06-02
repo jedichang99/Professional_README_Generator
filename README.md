@@ -1,37 +1,35 @@
-# Professional_README_Generator
 
-## Description
-
-The purpose of this project was to display the power of Java Script and API's. I used a weather API that displays the wether acording to the city that you input.
+# Professional README Generator
 
 ## Table of Contents
-
-- [Professional\_README\_Generator](#professional_readme_generator)
-  - [Description](#description)
+- [Professional README Generator](#professional-readme-generator)
   - [Table of Contents](#table-of-contents)
+  - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
   - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
+## Description
+The purpose of this project was to display the power of NodeJS. For this project we used NodeJS 16. This project is a Professional README Generator. You answere some questions and it will write a Professional README.
 
 ## Installation
-
 N/A
 
 ## Usage
-
-Now you can go about the web page and test your knologe of JS. Try to find the weather for the city you live in. You can go the website with this URL.
-<https://jedichang99.github.io/Code-Quiz/>
-
-![The Whole Page](assets/photos/whole_page.png)
-![Pre-saved citys](assets/photos/pre-set_citys.png)
-![Enter a city in this box](assets/photos/Enter_a_city.png)
-![Forcast Section](assets/photos/forcast.png)
-
-## Credits
-
-N/A
+Now you can go on my github and download NodeJS and you can run this code. When you run it, it will ask a few questions and then write a professional README.
 
 ## License
+This application is covered under the None license. ![License Badge](https://img.shields.io/badge/License-None-green)
 
-Please refer to the LICENSE in the repo.
+## Contributing
+N/A
+
+## Tests
+N/A
+
+## Questions
+For any questions or concerns, please reach out to me at jedichang99@gmail.com. You can also visit my GitHub profile: [jedichang99](https://github.com/jedichang99).
+  

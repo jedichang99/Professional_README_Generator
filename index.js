@@ -94,7 +94,7 @@ inquirer
 
     fs.writeFile("Your_README.md", readmeContent, (err) => {
       if (err) throw err;
-      console.log("README.md file has been created successfully!");
+      console.log("generateREADME.md file has been created successfully!");
     });
   })
   .catch((error) => {
